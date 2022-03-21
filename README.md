@@ -4,6 +4,10 @@
 
 ## Description
 
+This ecommerce backend links MySQL database with api routes to collect user information, as well as store product and tag related information.
+
+The models in this project define the MySQL tables and their relationships to one another, while the routes determine what information is displayed, stored, updated, and deleted.
+
 ## Installation
 
 This application requires Express.js, Sequelize, and MySQL database.
