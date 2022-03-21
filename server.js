@@ -1,5 +1,5 @@
-const express = require('express');
-const routes = require('./routes');
+const express = require("express");
+const routes = require("./routes");
 // import sequelize connection
 
 const app = express();
@@ -14,3 +14,5 @@ app.use(routes);
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}!`);
 });
+
+// entry point - node server.js to begin runnning the program
