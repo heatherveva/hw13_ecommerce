@@ -14,7 +14,13 @@ This application requires Express.js, Sequelize, and MySQL database.
 
 ## Walkthrough
 
-Walkthrough Link:
+Walkthrough Link - Category Routes: https://www.loom.com/share/14ede6a8fe2f4cf39641d18240e1dcbe
+
+Walkthrough Link - Product Routes: https://www.loom.com/share/b3211ff107534f3e97637b4e99d7156a
+
+A note about the product routes: the put and post send requests return a 400 error. However, they are both working and I do show proof that the create and updates do hit the database, despite the 400 error.
+
+Walkthrough Link - Tag Routes: https://www.loom.com/share/e520441d249147ffac7555dbf1dd6f14
 
 ## License
 
